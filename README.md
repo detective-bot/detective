@@ -1,0 +1,2 @@
+# detective
+My discord bot
